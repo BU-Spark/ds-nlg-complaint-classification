@@ -1,17 +1,24 @@
 import pandas as pd
-import numpy as np
 
-#importing datasets and converting to csv file
-#df_description = pd.read_excel('COMPLAINTS CONVERTED - 2016,17,19,20_corrected_file_final-Spark-spring2024.xlsx')
-#df_description.to_csv('Complaints_with_description.csv', index=False)
+df_2011_2020 = pd.read_csv('Data/iad_extracted_with_youth_labels_scrubbed.csv')
 
-df_no_description = pd.read_csv('officer_misconduct_all.csv')
-df_description = pd.read_csv('complaints_with_description.csv')
-#print(df_no_description.head())
-#print(df_no_description.columns)
-df_complaints = df_no_description.merge(df_description, left_on="IA #", right_on="IA No", how="left")
+# Excel file -> read_excel (needs openpyxl: pip install openpyxl)
+df_2020_2026 = pd.read_excel('Data/Mikaela McSharry MuckRock B2026-519.xlsx')
 
-df_complaints.to_csv('complaints_combined.csv', index=False)
+# Optional: save a CSV copy for the repo, but keep using the DataFrame
+df_2020_2026.to_csv('Data/2020_2026.csv', index=False)
 
-df_complaints_final = pd.read_csv('complaints_combined.csv')
-print(df_complaints_final.head())
+df_complaints = df_2011_2020.merge(
+    df_2020_2026,
+    left_on="ia_no",
+    right_on="Inc: IA No",
+    how="outer",
+)
+
+df_complaints.to_csv('Data/complaints_combined.csv', index=False)
+#print(df_complaints.head())
+
+df_complaints = pd.read_csv('Data/complaints_combined.csv')
+df_complaints_deduped = df_complaints.drop_duplicates()
+
+df_complaints_deduped.to_csv('Data/complaints_combined_deduped.csv', index=False)
