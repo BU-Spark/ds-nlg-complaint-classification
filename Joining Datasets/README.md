@@ -12,7 +12,7 @@ The Joining Datasets folder is used to clean and merge files for 2011-2020, 2019
 - `joining.ipynb`: Joins 2011-2020, 2019 and 2020-2026 data to create one comprehensive dataset, as well as isolating the narrative which we will be using for our LLM pass. 
 
 
-The notebooks reads and writes files in a `Data/` folder that is also in the `Joining Datasets\` folder to the notebook. The following three files need to be in the `Data/` folder and there needs to be an empty `data for llm/` folder that the llm data can be saved in before running:
+The notebooks reads and writes files in a `Data/` folder that is also in the `Joining Datasets/` folder to the notebook. The following three files need to be in the `Data/` folder and we need an empty `data for llm/` folder that the llm data can be saved in before running:
 
 -  `iad_extracted_with_youth_labels_scrubbed.csv`: IAD complaints, 2011-2020 (2020 cases are split out and handled separately in joining notebook)
 -  `Mikaela McSharry MuckRock B2026-519.xlsx`: most recent data for 2020-2026
@@ -37,7 +37,7 @@ The notebooks reads and writes files in a `Data/` folder that is also in the `Jo
 
 ## Output files
 
-All outputs are written to `Data/` and `data for llm/`.
+All outputs are written to `Data/`
 
 | File | Description |
 | --- | --- |
@@ -46,8 +46,8 @@ All outputs are written to `Data/` and `data for llm/`.
 | `complaints_combined_deduped.csv` | All complaint rows after combining, cleaning, and deduplication (one row per allegation) |
 | `all_complaints_collapsed.csv` | One row per case, with allegations joined by ` | ` |
 | `sample_complaints.csv` | 15-case sample of the collapsed data, with all columns |
-| `llm_final_df.json` / `.csv` | Full dataset for the LLM pass (case ID and narrative only) |
-| `sample_complaints_llm.json` / `.csv` | 15-case sample for the LLM pass (case ID and narrative only) |
+| `data for llm/llm_final_df.json` / `.csv` | Full dataset for the LLM pass (case ID and narrative only) |
+| `data for llm/sample_complaints_llm.json` / `.csv` | 15-case sample for the LLM pass (case ID and narrative only) |
 
 
 ## How to run
