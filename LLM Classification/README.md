@@ -37,6 +37,8 @@ Notes:
 
 Changing the prompt changes the version number, so new results never mix with old ones.
 
+Cell 6 saves the results as results_llm_final_df_prompt402f60b2.csv. The file here is that output renamed to results_llm_final_df.csv, with 3 minor cleanups made after the run: confidence blanked for UNCLEAR cases, only the first 3 allegations kept (2 cases had 4), and language tags sorted in P, V, G order.
+
 ## Columns
 
 | Column | Meaning |
