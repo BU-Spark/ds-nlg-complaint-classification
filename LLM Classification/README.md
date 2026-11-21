@@ -33,8 +33,7 @@ Notes:
 2. Run cell 1. It asks for the OpenRouter API key in a hidden box. **Never paste the key into a cell.**
 3. Run cells 2 to 4. Cell 3 should print `3113 cases loaded, 27 too short to send`.
 4. Run cell 5 to test one case, then cell 6 for the full run. If it stops partway, run cell 6 again. It skips cases that are already done.
-5. Run cell 11 to make the clean file. Cell 11 does not use the API, so it works on the saved results without a key or a rerun.
-6. Before committing, clear all outputs.
+5. Before committing, clear all outputs.
 
 Changing the prompt changes the version number, so new results never mix with old ones.
 
