@@ -2,14 +2,6 @@
 
 Uses an LLM to read every complaint narrative and code what it describes: the allegations, how severe the conduct is, how confident the model is, and any language flags. One prompt does all of it. The model never sees BPD's labels or outcomes, so its coding can be compared to BPD's afterward.
 
-## Files
-
-| File | What it is |
-|---|---|
-| `llm_classification.ipynb` | The notebook. The prompt is in cell 2. |
-| `llm_results/results_llm_final_df_prompt402f60b2.csv` | Full run output, as the model returned it |
-| `llm_results/results_llm_final_df_prompt402f60b2_clean.csv` | Same, after the cleanup in cell 11. **Use this one.** |
-
 ## Full run
 
 | | |
