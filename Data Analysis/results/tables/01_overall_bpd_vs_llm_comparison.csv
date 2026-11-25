@@ -1,0 +1,107 @@
+allegation,bpd_complaint_count,bpd_percent,llm_complaint_count,llm_percent,count_difference_llm_minus_bpd
+Neglect of Duty / Unreasonable Judgment,1026.0,32.96,548.0,17.6,-478.0
+Police Service,9.0,0.29,359.0,11.53,350.0
+Abuse of Process,59.0,1.9,380.0,12.21,321.0
+Harassment,0.0,0.0,302.0,9.7,302.0
+Bias / Discriminatory Treatment,0.0,0.0,228.0,7.32,228.0
+Use of Force,272.0,8.74,492.0,15.8,220.0
+Respectful Treatment,985.0,31.64,1182.0,37.97,197.0
+Search / Handcuff Procedures,0.0,0.0,168.0,5.4,168.0
+Leave / Attendance,0.0,0.0,166.0,5.33,166.0
+Conflicts / Off-Duty Situations,0.0,0.0,165.0,5.3,165.0
+Untruthfulness / False Reporting,0.0,0.0,149.0,4.79,149.0
+Abuse of Discretion,8.0,0.26,111.0,3.57,103.0
+Directives and Orders,0.0,0.0,100.0,3.21,100.0
+Untruthfulness / Inaccurate Reporting,85.0,2.73,0.0,0.0,-85.0
+Evidence / Property,0.0,0.0,84.0,2.7,84.0
+Inaccurate Reporting,0.0,0.0,75.0,2.41,75.0
+Paid Details,95.0,3.05,168.0,5.4,73.0
+Reporting / Documentation,0.0,0.0,72.0,2.31,72.0
+Directives / Orders,70.0,2.25,0.0,0.0,-70.0
+Firearms,0.0,0.0,70.0,2.25,70.0
+Self Identification,142.0,4.56,206.0,6.62,64.0
+Reporting for Duty,124.0,3.98,61.0,1.96,-63.0
+Conduct Unbecoming,283.0,9.09,337.0,10.83,54.0
+Drug Testing / Controlled Substances,54.0,1.73,0.0,0.0,-54.0
+General Conduct / Rule Violations,0.0,0.0,49.0,1.57,49.0
+Prisoner Care,0.0,0.0,47.0,1.51,47.0
+BIAS-Free Policing Policy,44.0,1.41,0.0,0.0,-44.0
+Emergency Driving,0.0,0.0,43.0,1.38,43.0
+Department Vehicle,0.0,0.0,34.0,1.09,34.0
+Body-Worn Camera,0.0,0.0,34.0,1.09,34.0
+Drug Testing,0.0,0.0,33.0,1.06,33.0
+Controlled Substances,0.0,0.0,30.0,0.96,30.0
+Duty / Supervisor Notification,0.0,0.0,29.0,0.93,29.0
+Information Disclosure,0.0,0.0,27.0,0.87,27.0
+Body-Worn Camera Policy,27.0,0.87,0.0,0.0,-27.0
+Uniform and Equipment,0.0,0.0,22.0,0.71,22.0
+Complaint Intake Procedures,0.0,0.0,22.0,0.71,22.0
+Prisoner Handling / Booking Procedures,20.0,0.64,0.0,0.0,-20.0
+Alcohol off Duty,56.0,1.8,36.0,1.16,-20.0
+Substance Abuse,0.0,0.0,19.0,0.61,19.0
+Supervisory Responsibilities,0.0,0.0,19.0,0.61,19.0
+Vehicle Operation / Accidents,18.0,0.58,0.0,0.0,-18.0
+Court Procedures,0.0,0.0,18.0,0.58,18.0
+Substance / Fitness for Duty,0.0,0.0,17.0,0.55,17.0
+Statements / Public Communications,0.0,0.0,16.0,0.51,16.0
+CJIS / CORI Access,16.0,0.51,0.0,0.0,-16.0
+Booking Procedures,0.0,0.0,16.0,0.51,16.0
+Harassment Policy / Sexual Harassment,15.0,0.48,0.0,0.0,-15.0
+Permissible Weapons & Ammunition,14.0,0.45,0.0,0.0,-14.0
+CJIS Access,0.0,0.0,14.0,0.45,14.0
+Uniform & Equipment,14.0,0.45,0.0,0.0,-14.0
+Manner of Recording Complaints,13.0,0.42,0.0,0.0,-13.0
+Criminal Complaint Procedures,0.0,0.0,13.0,0.42,13.0
+Completion of FIOE Report,11.0,0.35,0.0,0.0,-11.0
+Situations Involving Family / Domestic,11.0,0.35,0.0,0.0,-11.0
+Conformance to Laws,163.0,5.24,153.0,4.91,-10.0
+CORI Access,0.0,0.0,10.0,0.32,10.0
+Personal Business,18.0,0.58,9.0,0.29,-9.0
+Securing and Maintenance of Firearm,9.0,0.29,0.0,0.0,-9.0
+Canon Eight,9.0,0.29,0.0,0.0,-9.0
+Hostile Work Environment,10.0,0.32,19.0,0.61,9.0
+Communications / Radio,0.0,0.0,8.0,0.26,8.0
+Officer Safety / Mutual Protection,0.0,0.0,7.0,0.22,7.0
+Residence / Address Reporting,0.0,0.0,7.0,0.22,7.0
+F.I.O Reports,7.0,0.22,0.0,0.0,-7.0
+Strip Search,0.0,0.0,6.0,0.19,6.0
+Computer / Email Use,0.0,0.0,6.0,0.19,6.0
+Investigation of Use of Force,6.0,0.19,0.0,0.0,-6.0
+Courts,5.0,0.16,0.0,0.0,-5.0
+Accountability,5.0,0.16,0.0,0.0,-5.0
+Duty Supervisor,5.0,0.16,0.0,0.0,-5.0
+Failure to Notify Supervisor When Leaving Assigned Post,5.0,0.16,0.0,0.0,-5.0
+Off Duty Employment w/out Permission,4.0,0.13,0.0,0.0,-4.0
+Criminal Complaints,4.0,0.13,0.0,0.0,-4.0
+Reporting Firearms Discharge,4.0,0.13,0.0,0.0,-4.0
+Failure to Be Knowledgeable & Informed,4.0,0.13,0.0,0.0,-4.0
+Canon Seven,4.0,0.13,0.0,0.0,-4.0
+Residency,3.0,0.1,0.0,0.0,-3.0
+Tobacco on Duty,3.0,0.1,0.0,0.0,-3.0
+Evidence & Found Property,3.0,0.1,0.0,0.0,-3.0
+Ethics Canons,0.0,0.0,3.0,0.1,3.0
+Residence and Telephone,2.0,0.06,0.0,0.0,-2.0
+Alcohol on Duty,8.0,0.26,10.0,0.32,2.0
+Area Commanders,2.0,0.06,0.0,0.0,-2.0
+Interview Procedures,0.0,0.0,2.0,0.06,2.0
+Leaves of Absence,2.0,0.06,0.0,0.0,-2.0
+Strip Search / Visual Body Cavity Search,2.0,0.06,0.0,0.0,-2.0
+Mutual Protection,2.0,0.06,0.0,0.0,-2.0
+Request for Interviews,1.0,0.03,0.0,0.0,-1.0
+Display of Identification,1.0,0.03,0.0,0.0,-1.0
+Alcohol in Police Facility,3.0,0.1,2.0,0.06,-1.0
+Handling & Disposition of Seized Money,1.0,0.03,0.0,0.0,-1.0
+Courts - Failure to Appear When Summonsed,1.0,0.03,0.0,0.0,-1.0
+P.O. Notifying Operations,1.0,0.03,0.0,0.0,-1.0
+Statement of Opinion,1.0,0.03,0.0,0.0,-1.0
+Special Order 99-48 Dept E-Mail and Computer Use,1.0,0.03,0.0,0.0,-1.0
+Situations Involving Off-Duty Boston P.O.s,1.0,0.03,0.0,0.0,-1.0
+Change of Address Notification Violation,1.0,0.03,0.0,0.0,-1.0
+Sick Leave,1.0,0.03,0.0,0.0,-1.0
+Radio Procedures,1.0,0.03,0.0,0.0,-1.0
+Release of Property in Police Custody,1.0,0.03,0.0,0.0,-1.0
+Search Suspect After Handcuffing,1.0,0.03,0.0,0.0,-1.0
+Safeguarding Non-Evidence Property,1.0,0.03,0.0,0.0,-1.0
+Improper Statements,1.0,0.03,0.0,0.0,-1.0
+Sleeping on Duty,11.0,0.35,11.0,0.35,0.0
+Association with Criminals,14.0,0.45,14.0,0.45,0.0

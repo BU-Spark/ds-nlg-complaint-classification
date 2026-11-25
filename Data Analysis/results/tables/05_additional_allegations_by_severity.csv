@@ -1,0 +1,330 @@
+severity,additional_llm_allegation,complaint_count,percent_within_severity
+1.1,Reporting / Documentation,16,20.25
+1.1,Duty / Supervisor Notification,10,12.66
+1.1,Inaccurate Reporting,9,11.39
+1.1,Information Disclosure,7,8.86
+1.1,Neglect of Duty / Unreasonable Judgment,6,7.59
+1.1,Residence / Address Reporting,5,6.33
+1.1,Booking Procedures,4,5.06
+1.1,Conflicts / Off-Duty Situations,4,5.06
+1.1,Department Vehicle,4,5.06
+1.1,Self Identification,4,5.06
+1.1,Respectful Treatment,3,3.8
+1.1,Supervisory Responsibilities,3,3.8
+1.1,Abuse of Process,2,2.53
+1.1,Body-Worn Camera,2,2.53
+1.1,Conformance to Laws,2,2.53
+1.1,Statements / Public Communications,2,2.53
+1.1,Bias / Discriminatory Treatment,1,1.27
+1.1,Complaint Intake Procedures,1,1.27
+1.1,Conduct Unbecoming,1,1.27
+1.1,Emergency Driving,1,1.27
+1.1,Firearms,1,1.27
+1.1,Officer Safety / Mutual Protection,1,1.27
+1.1,Personal Business,1,1.27
+1.1,Police Service,1,1.27
+1.2,Leave / Attendance,139,54.72
+1.2,Paid Details,40,15.75
+1.2,General Conduct / Rule Violations,26,10.24
+1.2,Directives and Orders,19,7.48
+1.2,Reporting for Duty,19,7.48
+1.2,Duty / Supervisor Notification,6,2.36
+1.2,Court Procedures,5,1.97
+1.2,Neglect of Duty / Unreasonable Judgment,5,1.97
+1.2,Personal Business,5,1.97
+1.2,Untruthfulness / False Reporting,5,1.97
+1.2,Reporting / Documentation,3,1.18
+1.2,Substance / Fitness for Duty,3,1.18
+1.2,Supervisory Responsibilities,3,1.18
+1.2,Department Vehicle,2,0.79
+1.2,Abuse of Discretion,1,0.39
+1.2,Conduct Unbecoming,1,0.39
+1.2,Police Service,1,0.39
+1.2,Uniform and Equipment,1,0.39
+1.3,Directives and Orders,40,23.26
+1.3,Firearms,34,19.77
+1.3,Emergency Driving,15,8.72
+1.3,Uniform and Equipment,14,8.14
+1.3,Department Vehicle,13,7.56
+1.3,Body-Worn Camera,12,6.98
+1.3,Conflicts / Off-Duty Situations,8,4.65
+1.3,Conduct Unbecoming,7,4.07
+1.3,Conformance to Laws,7,4.07
+1.3,Neglect of Duty / Unreasonable Judgment,5,2.91
+1.3,Communications / Radio,4,2.33
+1.3,Prisoner Care,3,1.74
+1.3,Reporting / Documentation,3,1.74
+1.3,Reporting for Duty,3,1.74
+1.3,Search / Handcuff Procedures,3,1.74
+1.3,Supervisory Responsibilities,3,1.74
+1.3,Booking Procedures,2,1.16
+1.3,Drug Testing,2,1.16
+1.3,Duty / Supervisor Notification,2,1.16
+1.3,Evidence / Property,2,1.16
+1.3,Interview Procedures,2,1.16
+1.3,Leave / Attendance,2,1.16
+1.3,Officer Safety / Mutual Protection,2,1.16
+1.3,Abuse of Discretion,1,0.58
+1.3,Computer / Email Use,1,0.58
+1.3,Ethics Canons,1,0.58
+1.3,General Conduct / Rule Violations,1,0.58
+1.3,Paid Details,1,0.58
+1.3,Personal Business,1,0.58
+1.3,Respectful Treatment,1,0.58
+1.3,Self Identification,1,0.58
+1.3,Statements / Public Communications,1,0.58
+1.3,Substance / Fitness for Duty,1,0.58
+1.4,Drug Testing,30,31.91
+1.4,Controlled Substances,28,29.79
+1.4,Substance Abuse,17,18.09
+1.4,Substance / Fitness for Duty,10,10.64
+1.4,Alcohol off Duty,9,9.57
+1.4,Conflicts / Off-Duty Situations,8,8.51
+1.4,Conformance to Laws,6,6.38
+1.4,Alcohol on Duty,4,4.26
+1.4,Directives and Orders,3,3.19
+1.4,Firearms,3,3.19
+1.4,Conduct Unbecoming,2,2.13
+1.4,Department Vehicle,2,2.13
+1.4,Abuse of Process,1,1.06
+1.4,Alcohol in Police Facility,1,1.06
+1.4,Duty / Supervisor Notification,1,1.06
+1.4,Leave / Attendance,1,1.06
+1.4,Reporting / Documentation,1,1.06
+1.4,Respectful Treatment,1,1.06
+1.4,Uniform and Equipment,1,1.06
+1.4,Untruthfulness / False Reporting,1,1.06
+1.5,Untruthfulness / False Reporting,93,44.93
+1.5,Evidence / Property,39,18.84
+1.5,Inaccurate Reporting,28,13.53
+1.5,Abuse of Process,16,7.73
+1.5,Information Disclosure,12,5.8
+1.5,CJIS Access,10,4.83
+1.5,Conflicts / Off-Duty Situations,10,4.83
+1.5,CORI Access,8,3.86
+1.5,Court Procedures,7,3.38
+1.5,Conduct Unbecoming,6,2.9
+1.5,Conformance to Laws,6,2.9
+1.5,Department Vehicle,5,2.42
+1.5,Paid Details,5,2.42
+1.5,Booking Procedures,4,1.93
+1.5,Criminal Complaint Procedures,4,1.93
+1.5,Directives and Orders,4,1.93
+1.5,Neglect of Duty / Unreasonable Judgment,4,1.93
+1.5,Harassment,3,1.45
+1.5,Police Service,3,1.45
+1.5,Reporting / Documentation,3,1.45
+1.5,Search / Handcuff Procedures,3,1.45
+1.5,Abuse of Discretion,2,0.97
+1.5,Association with Criminals,2,0.97
+1.5,Computer / Email Use,2,0.97
+1.5,Respectful Treatment,2,0.97
+1.5,Alcohol off Duty,1,0.48
+1.5,Controlled Substances,1,0.48
+1.5,Duty / Supervisor Notification,1,0.48
+1.5,Emergency Driving,1,0.48
+1.5,Ethics Canons,1,0.48
+1.5,Hostile Work Environment,1,0.48
+1.5,Leave / Attendance,1,0.48
+1.5,Personal Business,1,0.48
+1.5,Residence / Address Reporting,1,0.48
+1.5,Supervisory Responsibilities,1,0.48
+2.1,Conduct Unbecoming,89,15.84
+2.1,Police Service,45,8.01
+2.1,Respectful Treatment,44,7.83
+2.1,Abuse of Process,40,7.12
+2.1,Neglect of Duty / Unreasonable Judgment,34,6.05
+2.1,Conflicts / Off-Duty Situations,26,4.63
+2.1,Self Identification,21,3.74
+2.1,Harassment,19,3.38
+2.1,Abuse of Discretion,14,2.49
+2.1,Bias / Discriminatory Treatment,8,1.42
+2.1,Directives and Orders,7,1.25
+2.1,Inaccurate Reporting,7,1.25
+2.1,Reporting / Documentation,7,1.25
+2.1,Emergency Driving,5,0.89
+2.1,Statements / Public Communications,4,0.71
+2.1,Complaint Intake Procedures,2,0.36
+2.1,Computer / Email Use,2,0.36
+2.1,Conformance to Laws,2,0.36
+2.1,General Conduct / Rule Violations,2,0.36
+2.1,Prisoner Care,2,0.36
+2.1,Supervisory Responsibilities,2,0.36
+2.1,Untruthfulness / False Reporting,2,0.36
+2.1,Association with Criminals,1,0.18
+2.1,Communications / Radio,1,0.18
+2.1,Paid Details,1,0.18
+2.1,Search / Handcuff Procedures,1,0.18
+2.2,Police Service,225,65.6
+2.2,Respectful Treatment,42,12.24
+2.2,Reporting / Documentation,27,7.87
+2.2,Abuse of Discretion,16,4.66
+2.2,Neglect of Duty / Unreasonable Judgment,15,4.37
+2.2,Prisoner Care,14,4.08
+2.2,Complaint Intake Procedures,13,3.79
+2.2,Inaccurate Reporting,12,3.5
+2.2,Abuse of Process,10,2.92
+2.2,Bias / Discriminatory Treatment,10,2.92
+2.2,Untruthfulness / False Reporting,9,2.62
+2.2,Conflicts / Off-Duty Situations,8,2.33
+2.2,Self Identification,7,2.04
+2.2,Evidence / Property,6,1.75
+2.2,Emergency Driving,4,1.17
+2.2,Supervisory Responsibilities,4,1.17
+2.2,Communications / Radio,3,0.87
+2.2,Directives and Orders,3,0.87
+2.2,Harassment,3,0.87
+2.2,Officer Safety / Mutual Protection,3,0.87
+2.2,Conduct Unbecoming,2,0.58
+2.2,Criminal Complaint Procedures,2,0.58
+2.2,Information Disclosure,2,0.58
+2.2,Body-Worn Camera,1,0.29
+2.2,Booking Procedures,1,0.29
+2.2,Conformance to Laws,1,0.29
+2.2,Court Procedures,1,0.29
+2.2,Paid Details,1,0.29
+2.2,Reporting for Duty,1,0.29
+2.2,Sleeping on Duty,1,0.29
+2.3,Harassment,123,34.94
+2.3,Abuse of Process,97,27.56
+2.3,Respectful Treatment,56,15.91
+2.3,Conduct Unbecoming,45,12.78
+2.3,Conflicts / Off-Duty Situations,39,11.08
+2.3,Abuse of Discretion,36,10.23
+2.3,Self Identification,14,3.98
+2.3,Police Service,13,3.69
+2.3,Bias / Discriminatory Treatment,12,3.41
+2.3,Neglect of Duty / Unreasonable Judgment,12,3.41
+2.3,Conformance to Laws,9,2.56
+2.3,Directives and Orders,5,1.42
+2.3,Use of Force,5,1.42
+2.3,Criminal Complaint Procedures,4,1.14
+2.3,Complaint Intake Procedures,3,0.85
+2.3,Firearms,3,0.85
+2.3,Inaccurate Reporting,3,0.85
+2.3,Untruthfulness / False Reporting,3,0.85
+2.3,Evidence / Property,2,0.57
+2.3,Reporting / Documentation,2,0.57
+2.3,Search / Handcuff Procedures,2,0.57
+2.3,Statements / Public Communications,2,0.57
+2.3,Alcohol on Duty,1,0.28
+2.3,CJIS Access,1,0.28
+2.3,CORI Access,1,0.28
+2.3,Computer / Email Use,1,0.28
+2.3,Emergency Driving,1,0.28
+2.3,General Conduct / Rule Violations,1,0.28
+2.3,Reporting for Duty,1,0.28
+2.4,Bias / Discriminatory Treatment,128,43.39
+2.4,Harassment,82,27.8
+2.4,Abuse of Process,54,18.31
+2.4,Search / Handcuff Procedures,30,10.17
+2.4,Respectful Treatment,23,7.8
+2.4,Abuse of Discretion,15,5.08
+2.4,Conduct Unbecoming,15,5.08
+2.4,Conflicts / Off-Duty Situations,14,4.75
+2.4,Neglect of Duty / Unreasonable Judgment,12,4.07
+2.4,Police Service,10,3.39
+2.4,Self Identification,9,3.05
+2.4,Conformance to Laws,7,2.37
+2.4,Hostile Work Environment,7,2.37
+2.4,Untruthfulness / False Reporting,7,2.37
+2.4,Evidence / Property,5,1.69
+2.4,Body-Worn Camera,2,0.68
+2.4,Criminal Complaint Procedures,2,0.68
+2.4,Directives and Orders,2,0.68
+2.4,Inaccurate Reporting,2,0.68
+2.4,Association with Criminals,1,0.34
+2.4,CJIS Access,1,0.34
+2.4,Complaint Intake Procedures,1,0.34
+2.4,Duty / Supervisor Notification,1,0.34
+2.4,General Conduct / Rule Violations,1,0.34
+2.4,Prisoner Care,1,0.34
+2.4,Reporting / Documentation,1,0.34
+2.4,Statements / Public Communications,1,0.34
+2.4,Use of Force,1,0.34
+3.1,Use of Force,79,29.04
+3.1,Search / Handcuff Procedures,78,28.68
+3.1,Abuse of Process,65,23.9
+3.1,Respectful Treatment,27,9.93
+3.1,Harassment,17,6.25
+3.1,Bias / Discriminatory Treatment,16,5.88
+3.1,Neglect of Duty / Unreasonable Judgment,13,4.78
+3.1,Conformance to Laws,10,3.68
+3.1,Self Identification,10,3.68
+3.1,Conflicts / Off-Duty Situations,9,3.31
+3.1,Abuse of Discretion,6,2.21
+3.1,Police Service,6,2.21
+3.1,Conduct Unbecoming,5,1.84
+3.1,Evidence / Property,5,1.84
+3.1,Body-Worn Camera,3,1.1
+3.1,Untruthfulness / False Reporting,3,1.1
+3.1,Prisoner Care,2,0.74
+3.1,Booking Procedures,1,0.37
+3.1,Department Vehicle,1,0.37
+3.1,General Conduct / Rule Violations,1,0.37
+3.1,Inaccurate Reporting,1,0.37
+3.1,Substance / Fitness for Duty,1,0.37
+3.2,Use of Force,81,25.31
+3.2,Search / Handcuff Procedures,34,10.62
+3.2,Abuse of Process,29,9.06
+3.2,Respectful Treatment,20,6.25
+3.2,Conflicts / Off-Duty Situations,17,5.31
+3.2,Neglect of Duty / Unreasonable Judgment,17,5.31
+3.2,Conformance to Laws,15,4.69
+3.2,Prisoner Care,15,4.69
+3.2,Bias / Discriminatory Treatment,13,4.06
+3.2,Harassment,13,4.06
+3.2,Self Identification,13,4.06
+3.2,Conduct Unbecoming,12,3.75
+3.2,Evidence / Property,11,3.44
+3.2,Firearms,11,3.44
+3.2,Strip Search,6,1.88
+3.2,Booking Procedures,3,0.94
+3.2,Emergency Driving,3,0.94
+3.2,Abuse of Discretion,2,0.62
+3.2,Police Service,2,0.62
+3.2,Supervisory Responsibilities,2,0.62
+3.2,Untruthfulness / False Reporting,2,0.62
+3.2,Body-Worn Camera,1,0.31
+3.2,Complaint Intake Procedures,1,0.31
+3.2,Department Vehicle,1,0.31
+3.2,Directives and Orders,1,0.31
+3.2,Duty / Supervisor Notification,1,0.31
+3.2,Inaccurate Reporting,1,0.31
+3.2,Reporting / Documentation,1,0.31
+3.2,Residence / Address Reporting,1,0.31
+3.2,Uniform and Equipment,1,0.31
+3.3,Use of Force,8,21.62
+3.3,Abuse of Process,5,13.51
+3.3,Firearms,4,10.81
+3.3,Harassment,3,8.11
+3.3,Search / Handcuff Procedures,3,8.11
+3.3,Prisoner Care,2,5.41
+3.3,Abuse of Discretion,1,2.7
+3.3,Booking Procedures,1,2.7
+3.3,CJIS Access,1,2.7
+3.3,Conflicts / Off-Duty Situations,1,2.7
+3.3,Conformance to Laws,1,2.7
+3.3,Emergency Driving,1,2.7
+3.3,Inaccurate Reporting,1,2.7
+3.3,Respectful Treatment,1,2.7
+3.3,Self Identification,1,2.7
+3.3,Untruthfulness / False Reporting,1,2.7
+UNCLEAR,General Conduct / Rule Violations,12,9.52
+UNCLEAR,Neglect of Duty / Unreasonable Judgment,5,3.97
+UNCLEAR,Conflicts / Off-Duty Situations,4,3.17
+UNCLEAR,Prisoner Care,4,3.17
+UNCLEAR,Abuse of Process,3,2.38
+UNCLEAR,Conduct Unbecoming,3,2.38
+UNCLEAR,Statements / Public Communications,3,2.38
+UNCLEAR,Abuse of Discretion,2,1.59
+UNCLEAR,Conformance to Laws,2,1.59
+UNCLEAR,Police Service,2,1.59
+UNCLEAR,Criminal Complaint Procedures,1,0.79
+UNCLEAR,Department Vehicle,1,0.79
+UNCLEAR,Ethics Canons,1,0.79
+UNCLEAR,Firearms,1,0.79
+UNCLEAR,Harassment,1,0.79
+UNCLEAR,Hostile Work Environment,1,0.79
+UNCLEAR,Information Disclosure,1,0.79
+UNCLEAR,Untruthfulness / False Reporting,1,0.79
